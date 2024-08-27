@@ -1,0 +1,5 @@
+name=playdate_setup
+author=Stephen Blackwell
+description=Starter project for Playdate
+bundleID=com.sblackwell.playdate_starter
+imagePath=
